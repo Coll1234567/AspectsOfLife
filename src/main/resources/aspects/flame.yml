@@ -1,0 +1,7 @@
+name: '&c&lFlame'
+description:
+  - '&c&lFire Shield: &7Gives you fire resistance while the aspect is intact.'
+  - '&c&lInferno: &7Sets you on fire for a long time when the aspect breaks.'
+  
+display-color: '#CE7604'
+display-text: '\u2764'

@@ -1,0 +1,9 @@
+name: AspectsOfLife
+version: @version@
+main: me.jishuna.aspectsoflife.AspectsOfLife
+authors: [Jishuna]
+api-version: 1.17
+
+commands:
+  aspects:
+    description: 'Base plugin command'
